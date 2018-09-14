@@ -1,0 +1,49 @@
+
+
+.top-page {
+  position: absolute;
+  width: 100%;
+}
+
+.social-icon-left {
+  background-color: #ffffff;
+  list-style-type: none;
+  text-align: left;
+  float: left;
+  margin: 0;
+  padding: 0;
+}
+
+.top-menu {
+  background-color: #ffffff;
+  list-style-type: none;
+  text-align: left;
+  float: right;
+  margin: 0;
+  padding: 0;
+}
+
+.social-icon-left li {
+  display: inline-block;
+  font-size: 19px;
+  padding: 5px;
+}
+
+.top-menu li {
+  display: inline-block;
+  font-size: 19px;
+  padding: 5px;
+}
+
+.social-icon-left li a img {
+  height: 30px;
+  width: 30px;
+}
+
+.social-icons {
+  /* do sht */
+}
+
+.header {
+  padding-top: 100px;
+}
